@@ -1,0 +1,6 @@
+﻿Reference designators,Quantity,MPN,Manufacturer,Part description,Value,SPN,Supplier,Package
+"D1","1","","","","","","",""
+"J1,J3","2","KF301-5.0-3P","Cixi Kefa Elec","Connector","","","",""
+"QWIIC","1","SM04B-SRSS-TB","JST Sales America Inc.","Connector","","","",""
+"R1","1","CF14JT220R","Stackpole Electronics Inc","Resistor, 220Ω","220Ω","","",""
+"U2","1","ABX00053","Texas Instruments Inc.","Microcontroller","","","",""

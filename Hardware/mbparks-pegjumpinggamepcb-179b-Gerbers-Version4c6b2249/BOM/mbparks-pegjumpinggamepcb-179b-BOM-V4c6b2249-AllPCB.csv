@@ -1,0 +1,6 @@
+﻿Item #,Ref Des,Qty,Manufacturer,Mfg Part #,Description / Value,Package,Type,Your Instructions / Notes
+"1","D1","1","","","","","",""
+"2","J1,J3","2","Cixi Kefa Elec","KF301-5.0-3P","Connector","","",""
+"3","QWIIC","1","JST Sales America Inc.","SM04B-SRSS-TB","Connector","","",""
+"4","R1","1","Stackpole Electronics Inc","CF14JT220R","Resistor, 220Ω","","",""
+"5","U2","1","Texas Instruments Inc.","ABX00053","Microcontroller","","",""

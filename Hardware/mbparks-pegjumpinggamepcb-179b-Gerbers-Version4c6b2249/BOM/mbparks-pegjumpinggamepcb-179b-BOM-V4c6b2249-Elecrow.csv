@@ -1,0 +1,7 @@
+﻿*Reference,*Manufacturer Part number,*QTY,*Original,Description,Purchase Link
+"D1","","1","","A semiconductor light source that emits light when current flows through it.",""
+"J1, J3","KF301-5.0-3P","2","","T1x3P -30℃~+120℃ 17A 250V Blue 14~22 Straight pin 5mm 1.5 1 3 Plugin,P=5mm Screw terminal ROHS #CommonPartsLibrary #Connector #3pos",""
+"QWIIC","SM04B-SRSS-TB","1","","SparkFun's Qwiic Connect System uses 4-pin JST connectors to quickly interface development boards with sensors, LCDs, relays and more.
+Connector Header Surface Mount, Right Angle 4 position 0.039"" (1.00mm)",""
+"R1","CF14JT220R","1","","220 Ohms ±5% 0.25W, 1/4W Through Hole Resistor Axial Flame Retardant Coating, Safety Carbon Film #CommonPartsLibrary #Resistor #Axial",""
+"U2","ABX00053","1","","Arduino Nano RP2040 Connect allows you to build your next smart project. Ever wanted an automated house? Or a smart garden? Well, now it’s easy with the Arduino IoT Cloud compatible boards.",""

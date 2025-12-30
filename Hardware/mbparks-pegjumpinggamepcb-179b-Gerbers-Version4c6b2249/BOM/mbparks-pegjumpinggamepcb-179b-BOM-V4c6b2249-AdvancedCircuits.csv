@@ -1,0 +1,6 @@
+﻿Component Description,QTY,Ref Des,Mfg P/N #,Manufacturer,Distributor P/N #
+"","1","D1","","",""
+"Connector","2","J1,J3","KF301-5.0-3P","Cixi Kefa Elec",""
+"Connector","1","QWIIC","SM04B-SRSS-TB","JST Sales America Inc.",""
+"Resistor, 220Ω","1","R1","CF14JT220R","Stackpole Electronics Inc",""
+"Microcontroller","1","U2","ABX00053","Texas Instruments Inc.",""
