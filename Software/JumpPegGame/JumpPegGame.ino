@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // ---------------- CONFIG ----------------
-#define LED_PIN     8     // Data pin
+#define LED_PIN     6     // Data pin
 #define LED_COUNT   12    // Number of LEDs in the ring
 #define BRIGHTNESS  80    // 0–255 (keep modest for USB power)
 // ----------------------------------------
